@@ -1,3 +1,8 @@
+package Lesson1;
+
+import lesson2.ArraySearch;
+import lesson2.ArraySort;
+
 import java.util.Arrays;
 
 public class Bike {
